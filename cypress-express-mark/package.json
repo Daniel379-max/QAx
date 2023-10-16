@@ -6,6 +6,15 @@
   "author": "Daniel Romagnoli",
   "license": "MIT",
   "devDependencies": {
+<<<<<<< HEAD
     "cypress": "12.2.0"
+=======
+    "@shelex/cypress-allure-plugin": "^2.40.0",
+    "allure-commandline": "^2.24.0",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "cypress": "^12.0.0"
+>>>>>>> branch-teste-codigo
   }
 }
